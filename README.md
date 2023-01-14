@@ -2,8 +2,8 @@
 
 ## Dependency
 
--[Sqlite]
--[ash-jc-allen/short-url]
+- [Sqlite3]
+- [ash-jc-allen/short-url]
 - [Laravel 9](https://github.com/laravel/framework)
 - [PHP 8.2](https://www.php.net/releases/8.1/en.php)
 
