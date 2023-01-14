@@ -21,7 +21,9 @@
 - Url Resize 
 
     Url - http://127.0.0.1:8000/api/urlResize
+    
     Method POST
+    
     Request Body
     {
         "url" :"https://code.tutsplus.com/tutorials/exception-handling-in-laravel--cms-30210",
@@ -29,8 +31,10 @@
     }
 
 - Retrive short url
-    Method POST
+    
     Url - http://127.0.0.1:8000/api/getShortUrl
+    
+    Method POST
 
     Request Body
     {
@@ -38,8 +42,10 @@
     }
 
 - List
+   
+    Url - http://127.0.0.1:8000/api/getAllUrl
+    
     Method GET
-    http://127.0.0.1:8000/api/getAllUrl
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
